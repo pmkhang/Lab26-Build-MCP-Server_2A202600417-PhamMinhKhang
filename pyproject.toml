@@ -1,0 +1,7 @@
+[project]
+name = "lab26-build-mcp-servicer-2a202600417-phamminhkhang"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
